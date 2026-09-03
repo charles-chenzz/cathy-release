@@ -3,7 +3,7 @@
 All notable changes to Cathy are documented in this file. Cathy follows
 [Semantic Versioning](https://semver.org/) for published releases.
 
-## [0.1.0-alpha.1] - Unreleased
+## [0.1.0-alpha.1] - 2026-09-03
 
 ### Added
 

@@ -4,10 +4,6 @@ This repository distributes prebuilt Cathy binaries. Cathy is a terminal-based
 coding agent with an interactive TUI, persistent threads, native tools, MCP
 integration, reusable skills, and support for several LLM providers.
 
-> **Release staging:** this repository remains private while the first alpha,
-> documentation, and artifacts are reviewed. It should be made public only
-> after explicit approval.
-
 The source repository is private. This repository contains distribution
 documentation and generated release artifacts, not Cathy source code.
 
@@ -105,10 +101,7 @@ Back up any saved threads you want to keep before removing `~/.cathy`.
 
 Do not post tokens, private code, exploit details, or other sensitive material
 in a public issue. Use this repository's **Security → Report a vulnerability**
-form. During private staging, collaborators should use an existing private
-project channel to contact
-[`@charles-chenzz`](https://github.com/charles-chenzz). Do not distribute the
-repository URL externally until private vulnerability reporting is enabled.
+form to submit a private report to the maintainer.
 
 ## License
 
